@@ -14,8 +14,8 @@ module.exports = {
     ]
   }],
   gitUrl: {
-    prompt: 'debuggap/vide-plugin-prompt-vue',
-    mode: 'debuggap/vide-plugin-mode-vue'
+    prompt: 'vide-template/prompt',
+    mode: 'vide-template/mode'
   },
   overwrite: {
     mode: require('./overwrite-mode')
